@@ -9,7 +9,6 @@
     <h2>
         <b>🦖 About Me:</b>
     </h2>
-    <br>
     <p>
         I am currently a senior Computer Science student at a university in the Philippines.
         <br>
