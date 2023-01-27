@@ -16,7 +16,7 @@
         Learning more about AI, specifically, the field of Natural Language Processing.
         <br><br> 
         I have a love-hate relationship with programming 😜
-        <br><br>
+        <br>
     </p>
     <hr>
     <h3>
