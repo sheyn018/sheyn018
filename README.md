@@ -11,7 +11,7 @@
     </h2>
     <p>
         I am currently working as a Developer based in the Philippines.
-        <br>
+        <br><br>
         I mostly build and create chatbots using frameworks like LangChain and LLMs such as Claude and GPT. I extend chatbot capabilities through API integrations and develop AI solutions to enhance user interactions.
         <br><br> 
         I have a love-hate relationship with programming 😜
